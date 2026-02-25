@@ -4,7 +4,7 @@
 
 ## Как собрать приложение самому
 
-1.  Скачай файл проекта `simple-droid-browser.aia` из этого репозитория.
+1.  Скачай файл проекта `browser.aia` из этого репозитория.
 2.  Зайди на сайт [MIT App Inventor](http://ai2.appinventor.mit.edu).
 3.  В меню выбери `Projects` -> `Import project (.aia) from my computer...`.
 4.  Укажи скачанный `.aia` файл.
