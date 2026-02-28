@@ -18,3 +18,9 @@
 
 ## Важно о будущем Android
 Google меняет правила. Поддержи открытость платформы: [keepandroidopen.org](https://keepandroidopen.org)
+
+# Установка
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+    alt="Получить из GitHub"
+    height="80">](https://github.com/evgentos-cpu/Simwser/releases)
+
